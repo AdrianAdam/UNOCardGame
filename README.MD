@@ -6,3 +6,5 @@ Currently there are no animations, no sound effects, and swap cards and change c
 
 This project is based on a YouTube tutorial : https://www.youtube.com/watch?v=FxH8FoddkVY
 Please check the tutorials if you want to understand more about the base of the game.
+
+Current status of the game: https://www.youtube.com/watch?v=0rSyuSDFDLs
